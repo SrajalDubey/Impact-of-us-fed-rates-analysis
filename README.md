@@ -38,3 +38,7 @@ correlation, volatility, and regime-based behavior.
 ## 👤 Author
 Srajal Dubey  
 Aspiring Data Analyst
+
+## 📸 Dashboard Preview
+![Dashboard Preview](DASHBOARD/dashboard_preview.png)
+
