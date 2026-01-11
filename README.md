@@ -40,5 +40,5 @@ Srajal Dubey
 Aspiring Data Analyst
 
 ## 📸 Dashboard Preview
-![Dashboard Preview](DASHBOARD/dashboard_preview.png)
+(DASHBOARD/market_impact_dashboard.pdf)
 
