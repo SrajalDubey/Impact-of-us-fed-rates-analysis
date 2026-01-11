@@ -15,6 +15,9 @@ correlation, volatility, and regime-based behavior.
 - **Raw Dataset**: Original data collected from public sources
 - **Cleaned Dataset**: Data after cleaning, formatting, and alignment
 - **Processed Dataset**: Final datasets used for analysis and dashboards
+- ## 📑 Data Sources
+- US Federal Reserve (FRED)
+- Yahoo Finance (S&P 500, NIFTY 50)
 
 ## 📊 Analysis Performed
 - Monthly return calculation
@@ -40,5 +43,5 @@ Srajal Dubey
 Aspiring Data Analyst
 
 ## 📸 Dashboard Preview
-![Dashboard Preview](DASHBOARD/market_impact_dashboard.pdf)
+![Dashboard Preview](DASHBOARD/dashboard_preview.png)
 
